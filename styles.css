@@ -1,0 +1,44 @@
+button{
+  margin-left: 30px;
+  font-size:25px;
+  font-family:Encode Sans;
+  background-color: #9CC2E5;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+button:hover{
+  margin-left: 30px;
+  color: #FFFFFF;
+  font-size:25px;
+  font-family:Encode Sans;
+  background-color: #2E75B6;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h1{
+  text-align: center;
+}
+
+#roomChoices{
+  text-align: center;
+}
+
+#roomTitle{
+  color:#5A5C5C;
+  font-size:35px;
+  font-family:Encode Sans;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#roomText{
+  color:#5A5C5C;
+  font-size:25px;
+  font-family:Encode Sans;
+}
